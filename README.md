@@ -1,14 +1,14 @@
 # Snake-Game
 This is a simple snake game made with python.
 
-#Bugs: (H1)
+# Bugs: (H1)
 
 The apples can spawn on the body of the snake and I was too lazy to fix it, maybe I'll fix it later.
 The game may crash if you reach a big score (Not sure about that one)
 
 
-#How to use it: (H1)
-##(For Beginners (H2)
+# How to use it: (H1)
+## (For Beginners (H2)
 
 You can use the link and go to repo, then open .py file
 
