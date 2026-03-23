@@ -8,7 +8,7 @@ The game may crash if you reach a big score (Not sure about that one)
 
 
 # How to use it: (H1)
-## (For Beginners (H2)
+## (For Beginners (H2))
 
 You can use the link and go to repo, then open .py file
 
